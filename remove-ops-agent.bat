@@ -1,0 +1,1 @@
+googet -noconfirm remove google-cloud-ops-agent

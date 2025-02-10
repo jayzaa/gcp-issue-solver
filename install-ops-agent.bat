@@ -1,0 +1,1 @@
+googet -noconfirm install google-cloud-ops-agent
