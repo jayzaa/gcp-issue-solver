@@ -6,7 +6,7 @@ $timestamp = Get-Date -Format "yyyy-MM-dd_HH_mm_ss"
 $backupFilePath = Join-Path $backupDir "backup_hosts_$timestamp.txt"
 
 
-$targetUrl = "https://cloud.uipath.com"
+$targetUrl = "https://website"
 
 
 ## Make Copy of Hosts file / create necessary objects
